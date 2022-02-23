@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, world! 👋
 
 <!--
 **pr0g/pr0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![pr0g's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0g&count_private=true&show_icons=true&theme=cobalt)
