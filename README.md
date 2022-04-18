@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![pr0g's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0g&count_private=true&show_icons=true&theme=cobalt)
+By day, I'm [hultonha](https://github.com/hultonha), a senior SDE working at Amazon (AWS) on [O3DE](https://github.com/o3de/o3de#readme). By ~~night~~ early evening, I'm [pr0g](https://github.com/pr0g), usually noodling around on some C++ hobby project or other...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr0g&count_private=true&langs_count=10&theme=cobalt)
+How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/tom_h_h.svg?style=social&label=Follow%20%40tom_h_h)](https://twitter.com/tom_h_h)
+
+Pronouns: He/Him
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr0g&count_private=true&langs_count=10&theme=cobalt)      ![pr0g's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr0g&count_private=true&show_icons=true&theme=cobalt)
