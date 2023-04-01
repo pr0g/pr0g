@@ -21,7 +21,10 @@ This is my personal GitHub account ([pr0g](https://github.com/pr0g)) where I'm u
 
 My previous contributions to the [Open 3D Engine (O3DE)](https://github.com/o3de/o3de#readme) project as part of Game Engine and Developer Services (AWS) can be found here: [hultonha](https://github.com/hultonha)
 
-How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/tom_h_h.svg?style=social&label=Follow%20%40tom_h_h)](https://twitter.com/tom_h_h)
+How to reach me:
+
+- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/tom_h_h.svg?style=social&label=Follow%20%40tom_h_h)](https://twitter.com/tom_h_h)
+- [![Mastodon URL](https://img.shields.io/mastodon/follow/109355635634248637?domain=https%3A%2F%2Fmastodon.gamedev.place&style=social)](https://mastodon.gamedev.place/@tom_h_h)
 
 Pronouns: He/Him
 
