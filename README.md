@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there, I'm Tom, a Software Development Manager (SDM) working at AWS.
+Hey there, I'm Tom, a Software Development Manager working at AWS.
 
 This is my personal GitHub account ([pr0g](https://github.com/pr0g)) where I'm usually noodling around on some C or C++ hobby project or other...
 
