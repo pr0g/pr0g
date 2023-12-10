@@ -19,6 +19,8 @@ Hey there, I'm Tom, a Software Development Manager working at AWS.
 
 This is my personal GitHub account ([pr0g](https://github.com/pr0g)) where I'm usually noodling around on some C or C++ hobby project or other...
 
+You can find my blog on [tomhultonharrop.com](https://tomhultonharrop.com/).
+
 My previous contributions to the [Open 3D Engine (O3DE)](https://github.com/o3de/o3de#readme) project as part of Game Engine and Developer Services (AWS) can be found here: [hultonha](https://github.com/hultonha)
 
 How to reach me:
