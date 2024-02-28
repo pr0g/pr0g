@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there, I'm Tom, an independent software developer available for freelance and contract roles.
+Hey there, I'm Tom, a software developer working at [Amutri](https://www.amutri.com/).
 
 This is my personal GitHub account ([pr0g](https://github.com/pr0g)) where I'm usually noodling around on some C or C++ hobby project or other...
 
