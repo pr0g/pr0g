@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there, I'm Tom, a software developer working at [Amutri](https://www.amutri.com/).
+Hey there, I'm Tom, a Senior Software Engineer working at [Bloomberg](https://www.bloomberg.com/company/what-we-do/engineering-cto/).
 
 This is my personal GitHub account ([pr0g](https://github.com/pr0g)) where I'm usually noodling around on some C or C++ hobby project or other...
 
-You can find my blog on [tomhultonharrop.com](https://tomhultonharrop.com/).
+You can find my blog at [tomhultonharrop.com](https://tomhultonharrop.com/blog).
 
 My previous contributions to the [Open 3D Engine (O3DE)](https://github.com/o3de/o3de#readme) project as part of Game Engine and Developer Services (AWS) can be found here: [hultonha](https://github.com/hultonha)
 
 How to reach me:
 
-- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/tom_h_h.svg?style=social&label=Follow%20%40tom_h_h)](https://twitter.com/tom_h_h)
 - [![Mastodon URL](https://img.shields.io/mastodon/follow/109355635634248637?domain=https%3A%2F%2Fmastodon.gamedev.place&style=social)](https://mastodon.gamedev.place/@tom_h_h)
 
 Pronouns: He/Him
